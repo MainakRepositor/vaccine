@@ -1,4 +1,4 @@
 pandas
-streamlit==0.76.0
+streamlit==0.79.0
 Pillow
 fake-useragent
