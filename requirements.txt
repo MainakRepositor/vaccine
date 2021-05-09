@@ -1,0 +1,4 @@
+pandas
+streamlit==0.76.0
+Pillow
+fake-useragent
